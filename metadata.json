@@ -1,0 +1,6 @@
+{
+  "name": "C# Studio - IDE & Debugger",
+  "description": "Editor de código C# com depurador integrado passo a passo, realce de sintaxe, autocompletar e console interativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
